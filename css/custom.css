@@ -5,6 +5,9 @@
     padding-bottom: 0;
 }
 
+#featured-works .contact-item:hover{
+    background-color:#2E3349;
+}
 
 .featured-works{
     padding-bottom: 104px;
