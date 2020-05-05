@@ -9,6 +9,10 @@
     background-color:#2E3349;
 }
 
+#featured-works .featured-item:hover .featured-item:hover i, .featured-item:hover .featured-item-title, .featured-item:hover p, .fa-globe-americas:before{
+    color: #fbd214;
+}
+
 .featured-works{
     padding-bottom: 104px;
 }

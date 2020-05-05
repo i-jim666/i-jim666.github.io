@@ -140,8 +140,8 @@ a.contact-item .contact-item-title, a.contact-item p {
 
 .navbar {
   transition: all 0.3s;
-  padding-top: 1.5rem !important;
-  padding-bottom: 1.5rem !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
   background: #fff;
 }
 
